@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Mediabase Request for Slumber Party
+// @name         Mediabase Request
 // @version      0.1
 // @description  Slumber Party slays lives.
 // @author       Shinko
